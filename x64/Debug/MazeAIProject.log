@@ -1,0 +1,55 @@
+﻿  Game.cpp
+C:\Users\dell\source\repos\MazeAIProject\MazeAIProject\SoundManager.h(202,35): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  (compiling source file 'Game.cpp')
+  
+C:\Users\dell\source\repos\MazeAIProject\MazeAIProject\Game.cpp(844,261): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\dell\source\repos\MazeAIProject\MazeAIProject\Game.cpp(844,261): warning C4244:         with
+C:\Users\dell\source\repos\MazeAIProject\MazeAIProject\Game.cpp(844,261): warning C4244:         [
+C:\Users\dell\source\repos\MazeAIProject\MazeAIProject\Game.cpp(844,261): warning C4244:             T=float
+C:\Users\dell\source\repos\MazeAIProject\MazeAIProject\Game.cpp(844,261): warning C4244:         ]
+C:\Users\dell\source\repos\MazeAIProject\MazeAIProject\Game.cpp(844,233): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\dell\source\repos\MazeAIProject\MazeAIProject\Game.cpp(844,233): warning C4244:         with
+C:\Users\dell\source\repos\MazeAIProject\MazeAIProject\Game.cpp(844,233): warning C4244:         [
+C:\Users\dell\source\repos\MazeAIProject\MazeAIProject\Game.cpp(844,233): warning C4244:             T=float
+C:\Users\dell\source\repos\MazeAIProject\MazeAIProject\Game.cpp(844,233): warning C4244:         ]
+C:\Users\dell\source\repos\MazeAIProject\MazeAIProject\Game.cpp(845,165): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\dell\source\repos\MazeAIProject\MazeAIProject\Game.cpp(845,165): warning C4244:         with
+C:\Users\dell\source\repos\MazeAIProject\MazeAIProject\Game.cpp(845,165): warning C4244:         [
+C:\Users\dell\source\repos\MazeAIProject\MazeAIProject\Game.cpp(845,165): warning C4244:             T=float
+C:\Users\dell\source\repos\MazeAIProject\MazeAIProject\Game.cpp(845,165): warning C4244:         ]
+C:\Users\dell\source\repos\MazeAIProject\MazeAIProject\Game.cpp(845,132): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\dell\source\repos\MazeAIProject\MazeAIProject\Game.cpp(845,132): warning C4244:         with
+C:\Users\dell\source\repos\MazeAIProject\MazeAIProject\Game.cpp(845,132): warning C4244:         [
+C:\Users\dell\source\repos\MazeAIProject\MazeAIProject\Game.cpp(845,132): warning C4244:             T=float
+C:\Users\dell\source\repos\MazeAIProject\MazeAIProject\Game.cpp(845,132): warning C4244:         ]
+C:\Users\dell\source\repos\MazeAIProject\MazeAIProject\Game.cpp(846,166): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\dell\source\repos\MazeAIProject\MazeAIProject\Game.cpp(846,166): warning C4244:         with
+C:\Users\dell\source\repos\MazeAIProject\MazeAIProject\Game.cpp(846,166): warning C4244:         [
+C:\Users\dell\source\repos\MazeAIProject\MazeAIProject\Game.cpp(846,166): warning C4244:             T=float
+C:\Users\dell\source\repos\MazeAIProject\MazeAIProject\Game.cpp(846,166): warning C4244:         ]
+C:\Users\dell\source\repos\MazeAIProject\MazeAIProject\Game.cpp(846,133): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\dell\source\repos\MazeAIProject\MazeAIProject\Game.cpp(846,133): warning C4244:         with
+C:\Users\dell\source\repos\MazeAIProject\MazeAIProject\Game.cpp(846,133): warning C4244:         [
+C:\Users\dell\source\repos\MazeAIProject\MazeAIProject\Game.cpp(846,133): warning C4244:             T=float
+C:\Users\dell\source\repos\MazeAIProject\MazeAIProject\Game.cpp(846,133): warning C4244:         ]
+C:\Users\dell\source\repos\MazeAIProject\MazeAIProject\Game.cpp(847,174): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\dell\source\repos\MazeAIProject\MazeAIProject\Game.cpp(847,174): warning C4244:         with
+C:\Users\dell\source\repos\MazeAIProject\MazeAIProject\Game.cpp(847,174): warning C4244:         [
+C:\Users\dell\source\repos\MazeAIProject\MazeAIProject\Game.cpp(847,174): warning C4244:             T=float
+C:\Users\dell\source\repos\MazeAIProject\MazeAIProject\Game.cpp(847,174): warning C4244:         ]
+C:\Users\dell\source\repos\MazeAIProject\MazeAIProject\Game.cpp(847,141): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\dell\source\repos\MazeAIProject\MazeAIProject\Game.cpp(847,141): warning C4244:         with
+C:\Users\dell\source\repos\MazeAIProject\MazeAIProject\Game.cpp(847,141): warning C4244:         [
+C:\Users\dell\source\repos\MazeAIProject\MazeAIProject\Game.cpp(847,141): warning C4244:             T=float
+C:\Users\dell\source\repos\MazeAIProject\MazeAIProject\Game.cpp(847,141): warning C4244:         ]
+C:\Users\dell\source\repos\MazeAIProject\MazeAIProject\Game.cpp(848,209): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\dell\source\repos\MazeAIProject\MazeAIProject\Game.cpp(848,209): warning C4244:         with
+C:\Users\dell\source\repos\MazeAIProject\MazeAIProject\Game.cpp(848,209): warning C4244:         [
+C:\Users\dell\source\repos\MazeAIProject\MazeAIProject\Game.cpp(848,209): warning C4244:             T=float
+C:\Users\dell\source\repos\MazeAIProject\MazeAIProject\Game.cpp(848,209): warning C4244:         ]
+C:\Users\dell\source\repos\MazeAIProject\MazeAIProject\Game.cpp(848,175): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\dell\source\repos\MazeAIProject\MazeAIProject\Game.cpp(848,175): warning C4244:         with
+C:\Users\dell\source\repos\MazeAIProject\MazeAIProject\Game.cpp(848,175): warning C4244:         [
+C:\Users\dell\source\repos\MazeAIProject\MazeAIProject\Game.cpp(848,175): warning C4244:             T=float
+C:\Users\dell\source\repos\MazeAIProject\MazeAIProject\Game.cpp(848,175): warning C4244:         ]
+  MazeAIProject.vcxproj -> C:\Users\dell\source\repos\MazeAIProject\x64\Debug\MazeAIProject.exe

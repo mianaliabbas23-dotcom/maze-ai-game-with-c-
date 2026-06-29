@@ -1,0 +1,41 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "shell",
+            "label": "Compile SFML Project",
+            "command": "g++",
+            "args": [
+                "-Wall",
+                "-Wextra",
+                "-g3",
+                "main.cpp",
+                "Game.cpp",
+                "Grid.cpp",
+                "Pathfinding.cpp",
+                "Player.cpp",
+                "Queue.cpp",
+                "-I",
+                "D:/cpplibraries/SFML/include",
+                "-L",
+                "D:/cpplibraries/SFML/lib",
+                "-lsfml-graphics",
+                "-lsfml-window",
+                "-lsfml-audio",
+                "-lsfml-system",
+                "-o",
+                "output/main.exe"
+            ],
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}

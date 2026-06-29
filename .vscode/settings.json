@@ -1,0 +1,19 @@
+{
+    "C_Cpp.default.cppStandard": "c++20",
+    "C_Cpp.default.cStandard": "c17",
+    "C_Cpp.default.intelliSenseEngine": "default",
+    "C_Cpp.default.compilerPath": "C:/msys64/ucrt64/bin/g++.exe",
+    "C_Cpp.formatting": "Default",
+    "editor.formatOnSave": true,
+    "[cpp]": {
+        "editor.defaultFormatter": "xaver.clang-format"
+    },
+    "files.exclude": {
+        "**/build": true,
+        "**/x64": true,
+        "**/.vs": true,
+        "**/*.o": true,
+        "**/*.a": true,
+        "**/*.so": true
+    }
+}
